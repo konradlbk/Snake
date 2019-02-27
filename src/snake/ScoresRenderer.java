@@ -23,7 +23,7 @@ public class ScoresRenderer extends JPanel implements ActionListener, KeyListene
 
     private Image background;
 
-    ImageIcon bg = new ImageIcon("out/production/Snake/snake/scorePage.png");
+    ImageIcon bg = new ImageIcon("out/production/Snake/snake/gfx/scorePage.png");
 
 
     public ScoresRenderer(){

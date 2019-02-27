@@ -17,22 +17,22 @@ public class RenderPanel extends JPanel {
     public Image snakeHeadRight, snakePart, snakeTailUp, snakeTailDown, snakeTailLeft, snakeTailRight, snakePartUpDown, snakePartLeftRight;
 
     public static Color green = new Color(1666073);
-        ImageIcon iic = new ImageIcon("out/production/Snake/snake/cherry.png");
-        ImageIcon rockIc = new ImageIcon("out/production/Snake/snake/rock.png");
-        ImageIcon iisd = new ImageIcon("out/production/Snake/snake/snakeDown.png");
-        ImageIcon iisu = new ImageIcon("out/production/Snake/snake/snakeUp.png");
-        ImageIcon iisl = new ImageIcon("out/production/Snake/snake/snakeLeft.png");
-        ImageIcon iisr = new ImageIcon("out/production/Snake/snake/snakeRight.png");
-        ImageIcon iisp = new ImageIcon("out/production/Snake/snake/snakePart2.png");
-        ImageIcon snake2 = new ImageIcon("out/production/Snake/snake/snakePart2.png");
-        ImageIcon iistu = new ImageIcon("out/production/Snake/snake/snakeTailUp.png");
-        ImageIcon iistd = new ImageIcon("out/production/Snake/snake/snakeTailDown.png");
-        ImageIcon iistl = new ImageIcon("out/production/Snake/snake/snakeTailLeft.png");
-        ImageIcon iistr = new ImageIcon("out/production/Snake/snake/snakeTailRight.png");
-        ImageIcon upDown = new ImageIcon("out/production/Snake/snake/snakePartUpDown.png");
-        ImageIcon leftRight = new ImageIcon("out/production/Snake/snake/snakePartLeftRight.png");
-        ImageIcon bg = new ImageIcon("out/production/Snake/snake/sand.png");
-        ImageIcon wr = new ImageIcon("out/production/Snake/snake/water.png");
+        ImageIcon iic = new ImageIcon("out/production/Snake/snake/gfx/cherry.png");
+        ImageIcon rockIc = new ImageIcon("out/production/Snake/snake/gfx/rock.png");
+        ImageIcon iisd = new ImageIcon("out/production/Snake/snake/gfx/snakeDown.png");
+        ImageIcon iisu = new ImageIcon("out/production/Snake/snake/gfx/snakeUp.png");
+        ImageIcon iisl = new ImageIcon("out/production/Snake/snake/gfx/snakeLeft.png");
+        ImageIcon iisr = new ImageIcon("out/production/Snake/snake/gfx/snakeRight.png");
+        ImageIcon iisp = new ImageIcon("out/production/Snake/snake/gfx/snakePart2.png");
+        ImageIcon snake2 = new ImageIcon("out/production/Snake/snake/gfx/snakePart2.png");
+        ImageIcon iistu = new ImageIcon("out/production/Snake/snake/gfx/snakeTailUp.png");
+        ImageIcon iistd = new ImageIcon("out/production/Snake/snake/gfx/snakeTailDown.png");
+        ImageIcon iistl = new ImageIcon("out/production/Snake/snake/gfx/snakeTailLeft.png");
+        ImageIcon iistr = new ImageIcon("out/production/Snake/snake/gfx/snakeTailRight.png");
+        ImageIcon upDown = new ImageIcon("out/production/Snake/snake/gfx/snakePartUpDown.png");
+        ImageIcon leftRight = new ImageIcon("out/production/Snake/snake/gfx/snakePartLeftRight.png");
+        ImageIcon bg = new ImageIcon("out/production/Snake/snake/gfx/sand.png");
+        ImageIcon wr = new ImageIcon("out/production/Snake/snake/gfx/water.png");
     Font f2 = new Font("serif", Font.BOLD, 32);
 
 

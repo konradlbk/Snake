@@ -33,9 +33,7 @@ public class MenuPanel {
         for (int i=0; i<50000; i++){
             thread.sleep(1000);
             timeElapsed=i;
-//            if (Snake.snake.gameOver==false || Snake.snake.paused==true){
-//                timeElapsed=i--;
-//            }
+
 
         }
 
@@ -43,17 +41,6 @@ public class MenuPanel {
 
 
         }
-
-
-
-        // COULDN'T GET 'WHILE' LOOP TO WORK; THROWED NULL POINTER EXCEPTION EVEN WITH THE SAME CONDITIONS
-        // AS IN THE 'FOR' LOOP
-
-//        while (Snake.snake.gameOver!=true || Snake.snake.paused!=true){
-//            timeElapsed++;
-//        }
-
-
 
 
 

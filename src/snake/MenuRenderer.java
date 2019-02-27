@@ -12,9 +12,9 @@ public class MenuRenderer extends JPanel implements ActionListener, KeyListener 
 
     JFrame frame = MenuPanel.f;
     private Image background, arrow;
-    ImageIcon bg = new ImageIcon("out/production/Snake/snake/menu.png");
+    ImageIcon bg = new ImageIcon("out/production/Snake/snake/gfx/menu.png");
 
-    ImageIcon selector = new ImageIcon("out/production/Snake/snake/selector.png");
+    ImageIcon selector = new ImageIcon("out/production/Snake/snake/gfx/selector.png");
 
     int x=135, y=335, vely=333;
     public MenuRenderer(){

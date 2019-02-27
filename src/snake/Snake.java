@@ -70,7 +70,7 @@ public class Snake implements ActionListener, KeyListener {
 
     private Dimension dim;
 
-    String word = "Cos tam";
+//    String word = "";
 
     public void startGame(){
 
@@ -159,7 +159,7 @@ public class Snake implements ActionListener, KeyListener {
 
             if (dir ==RIGHT)
                 if (head.x< 29 && noTailAt(head.x+2, head.y)){
-                    word="zmiana";
+//                    word="zmiana";
                     head=new Point(head.x +1, head.y);
 
                 }
